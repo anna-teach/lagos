@@ -1,3 +1,4 @@
 Sleeping Beauty
 King
 Queen
+friend
