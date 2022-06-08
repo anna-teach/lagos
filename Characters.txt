@@ -2,3 +2,4 @@ Sleeping Beauty
 King
 Queen
 friend
+friend2
